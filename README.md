@@ -1,5 +1,5 @@
 # MLP Architectures for Vision-and-Language Modeling: An Empirical Study
-[MLP Architectures for Vision-and-Language Modeling: An Empirical Study](www.google.com)  
+[MLP Architectures for Vision-and-Language Modeling: An Empirical Study](https://arxiv.org/pdf/2112.04453.pdf)  
 **(Code will be released soon.)**
 
 [Yixin Nie](https://easonnie.github.io/)\*, [Linjie Li](https://www.linkedin.com/in/linjie-li/)\*,
